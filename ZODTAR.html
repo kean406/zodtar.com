@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZODTAR.COM - دامنه ای برای آینده</title>
+    <meta name="description" content="ZODTAR.COM - دامنه ای برای آینده. بهترین انتخاب برای کسب و کار آنلاین شما. جهت خرید این دامنه با ایمیل kean406@gmail.com در ارتباط باشید.">
+    <meta name="keywords" content="دامنه, ZODTAR.COM, خرید دامنه, دامنه جدید, دامنه فارسی, کسب و کار آنلاین">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+            color: #343a40;
+            text-align: center;
+            padding: 50px;
+        }
+        .container {
+            background: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+            max-width: 800px;
+            margin: auto;
+        }
+        h1 {
+            font-size: 2.5em;
+            color: #007bff;
+        }
+        p {
+            font-size: 1.2em;
+            margin: 20px 0;
+        }
+        .cta-button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin-top: 20px;
+            font-size: 1em;
+            color: #ffffff;
+            background: #007bff;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            transition: background 0.3s;
+        }
+        .cta-button:hover {
+            background: #0056b3;
+        }
+        .en-section {
+            text-align: left;
+            direction: ltr;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>ZODTAR.COM</h1>
+        <p>بهترین دامنه برای کسب و کار آنلاین شما. همین امروز این دامنه را به نام خود ثبت کنید و به آینده‌ای موفقیت‌آمیز دست یابید.</p>
+        <a class="cta-button" href="mailto:kean406@gmail.com">خرید دامنه</a>
+
+        <div class="en-section">
+            <h1>ZODTAR.COM</h1>
+            <p>The best domain for your online business. Register this domain today and achieve a successful future.</p>
+            <a class="cta-button" href="mailto:kean406@gmail.com">Buy Domain</a>
+        </div>
+    </div>
+</body>
+</html>
